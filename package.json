@@ -1,0 +1,28 @@
+{
+  "name": "testtasknode",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend for Bus changer app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "author": "Yegor Zakharov <zeoman@zoho.com>",
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "pug": "2.0.0-beta11",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.9",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.1",
+    "express-validator": "^6.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

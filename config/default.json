@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "jwtSecret": "w6pezNoXhfKHxR1pqcgiQ7zS1DAm823db3pp667sKRuZv9ndip",
+    "mongoUri": "mongodb+srv://admin:fIDYrovh1x3P@testtask.p0sng.azure.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "UTC": "Europe/Moscow",
+    "TokenLifeTime": "9999h"
+}
